@@ -23,7 +23,10 @@ namespace _20_TurtleGraphics.Properties
 
         public static void UpdateGameBoardY(int start, int spacesToMove, int leftOrRight, int constantX)
         {
-            GameBoardArray[constantX, start + (i * leftOrRight)] = UsedSpace;
+            for (var i = 0; i < spacesToMove; i++)
+            {
+                GameBoardArray[constantX, start + (i * leftOrRight)] = UsedSpace;
+            }
         }
 
         public void DrawGameBoard(int posX, int posY, char turtle)
