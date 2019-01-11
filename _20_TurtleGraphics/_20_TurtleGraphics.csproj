@@ -39,6 +39,7 @@
     <Compile Include="Properties\Directions.cs" />
     <Compile Include="Properties\Pen.cs" />
     <Compile Include="Properties\Turtle.cs" />
+    <Compile Include="Properties\Game.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
