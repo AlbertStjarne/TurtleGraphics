@@ -18,7 +18,7 @@ namespace _20_TurtleGraphics.Properties
             ErrorMessage = "\nINVALID INPUT. Input must be an integer between 1 - 7\n";
         }
 
-        public static void InvalidMove(string direction, int spaces)
+        public static void InvalidMove(Directions.TurtleDirections direction, int spaces)
         {
             ErrorMessage = $"\nINVALID MOVE. You can only move {spaces} spaces to the {direction}\n";
         }
