@@ -3,6 +3,8 @@
 ## Instructions
 This is a drawing game for the Console, built in order to practice C# in .NET.
 
+Open the program in Visual Studio and click play.
+
 There are seven commands to play the game. You are instructed to select an option and the number of steps to move. If the pen is down you will draw and if the pen is up the marker will only move.
 
 1 = pen up
@@ -15,7 +17,12 @@ There are seven commands to play the game. You are instructed to select an optio
 
 7 = Quit
 
-## Running in the console
+## Screen shots
+Start
+![Start screen shot](Turtle-Graphics-start.png)
+
+Example drawing
+![Example drawing](Turtle-Graphics-drawing.png)
 
 ## Built with
 The project is built in Visual Studio for Mac, as a .NET Console Project, with C# as programming language
