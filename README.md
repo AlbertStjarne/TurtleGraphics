@@ -19,10 +19,10 @@ There are seven commands to play the game. You are instructed to select an optio
 
 ## Screenshots
 Start
-![Start screenshot](/Turtle-Graphics-start.png)
+![Start screenshot](/TurtleGraphics-start.png)
 
 Example drawing
-![Example drawing](/Turtle-Graphics-drawing.png)
+![Example drawing](/TurtleGraphics-drawing.png)
 
 ## Built with
 The project is built in Visual Studio for Mac, as a .NET Console Project, with C# as programming language
