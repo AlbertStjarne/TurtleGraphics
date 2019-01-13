@@ -19,9 +19,11 @@ There are seven commands to play the game. You are instructed to select an optio
 
 ## Screenshots
 Start
+
 <img src="TurtleGraphics-start.png" width=400>
 
 Example drawing
+
 <img src="TurtleGraphics-drawing.png" width=400>
 
 ## Built with
